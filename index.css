@@ -1,0 +1,34 @@
+#color{
+background-color: rgb(56, 95, 120)!important;
+}
+.btnn{
+background-color: orange;
+text-transform: capitalize;
+}
+body{
+    text-transform: capitalize;
+}
+.margin{
+    margin-top:1px;
+}
+.color-f{
+    color: red;
+}
+small{
+    color: black;
+}
+.size{
+    font-size: 30px;
+    color: orange;
+}
+.round{
+    border-radius: 50%;
+   width: 150px;
+   height: 150px;
+}
+.backg{
+   color: orange;
+}
+.other{
+    color: wheat;
+}
