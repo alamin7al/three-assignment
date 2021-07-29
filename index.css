@@ -32,4 +32,6 @@ small{
 .other{
     color: wheat;
 }
-
+.gray{
+    filter: grayscale(1);
+}
